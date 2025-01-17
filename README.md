@@ -1,4 +1,4 @@
 |||
 |---------------------------|---------------------------------------------|
 |**JiJeq-Orgex** |
-| ![Logo](icon4b.ico) | ![title](CaptureBeta2.png) |
+| ![Logo](icon4b.ico) | ![title](screenshot.png) |
